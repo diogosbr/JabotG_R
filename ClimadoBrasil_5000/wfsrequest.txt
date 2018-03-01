@@ -1,0 +1,1 @@
+http://www.geoservicos.ibge.gov.br:80/geoserver/wms?service=WFS&version=1.0.0&request=GetFeature&typeName=CREN:ClimadoBrasil_5000&outputFormat=SHAPE-ZIP

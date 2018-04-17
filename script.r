@@ -20,8 +20,6 @@ clima = rgdal::readOGR("./ClimadoBrasil_5000/ClimadoBrasil_5000.shp")
 solos = rgdal::readOGR("./solos_5000/solos_5000.shp")
 relevo = rgdal::readOGR("./geomorfologia_5000/geomorfologia_5000.shp")
 vegetacao_5000 = rgdal::readOGR("./vegetacao_5000/vegetacao_5000.shp")
-
-#Este shape da vegetação radambrasil precisa ser baixado
 vegetacao_radam = rgdal::readOGR("./vegetacao_radambrasil/vegetacao_radambrasil.shp")
 
 #Lendo os pontos
